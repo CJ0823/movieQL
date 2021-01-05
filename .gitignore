@@ -1,0 +1,10 @@
+node_modules/
+
+package-lock.json
+
+.env*
+dist
+.idea
+*.log
+.graphcoolrc
+**/.DS_Store
